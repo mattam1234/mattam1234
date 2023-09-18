@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mathijs
 - 👀 I’m interested in Smart home and iot
 - 🌱 I’m currently learning c++ c#
-- 💞️ I’m looking to collaborate on not shure yet
 - 📫 How to reach me linked in 
 
 <!---
