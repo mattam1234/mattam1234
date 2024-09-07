@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Mathijs<br>👀 I’m interested in Smart home and iot<br>🌱 I’m currently learning c++ c#<br>📫 How to reach me linked in
+<br>👋 Hi, I’m Mathijs<br>👀 I’m interested in Smart home and iot<br>🌱 I’m currently learning c++ c#<br>📫 How to reach me? ![LinkedIn](https://www.linkedin.com/in/mathijs-tamminga/)
 
 
 # 💻 Tech Stack:
