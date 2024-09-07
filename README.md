@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Mathijs<br>👀 I’m interested in Smart home and iot<br>🌱 I’m currently learning c++ c#<br>📫 How to reach me? ![LinkedIn](https://www.linkedin.com/in/mathijs-tamminga/)
+<br>👋 Hi, I’m Mathijs<br>👀 I’m interested in Smart home and iot<br>🌱 I’m currently learning c++ c#<br>📫 How to reach me? [![LinkedIn](https://www.google.com/imgres?q=linkedin%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&docid=vLBuaTBzrfpOUM&tbnid=JdyXos__tp7KHM&vet=12ahUKEwjEhMPcpLGIAxVx2wIHHeOWLmgQM3oECBUQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjEhMPcpLGIAxVx2wIHHeOWLmgQM3oECBUQAA)](https://www.linkedin.com/in/mathijs-tamminga/)
 
 
 # 💻 Tech Stack:
