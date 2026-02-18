@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Matt
+# Hi there! 👋 I'm Mathijs
 
 ## About Me
 Software Developer at Wagenaar Engineering, specializing in building robust applications and cloud solutions.
